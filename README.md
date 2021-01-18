@@ -7,3 +7,4 @@ Inspiration for this project comes from The Coding Train: https://www.youtube.co
 
 Feel free to do whatever you want with this
 
+![screenshot](https://github.com/Mr0o/simple-fireworks-simulator/blob/main/screenshot.png)
