@@ -71,7 +71,7 @@ class Firework:
             if self.lifetime < 0:
                 self.explosion_particles.clear()
                 self.alive = False
-            for i, p in enumerate(self.explosion_particles):
+            for p in self.explosion_particles:
                 p.applyForce(Vector(0, random() * 0.0003))
                 p.vel.limitMag(self.rmag)
                 p.update()
